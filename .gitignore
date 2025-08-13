@@ -1,0 +1,68 @@
+node_modules/
+dist/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build Artifacts
+/build/
+/dist/
+/out/
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Dependency Management
+node_modules/
+vendor/
+target/
+*.egg-info/
+.bundle/
+
+# IDE and Editor Files
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+*.iml
+
+# Configuration and Environment Variables
+.env
+.env.*
+config.local.js
+secrets.json
+
+# Test and Coverage Reports
+/coverage/
+/test-results/
+
+# Temporary Files
+temp/
+tmp/
+
+# Compiled and Executable Files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyc
+__pycache__/
+
+# Version Control Specific Files
+.git/
+.svn/
+.hg/
+
+# User-Specific Files (if not meant to be shared)
+*.user
+xcuserdata/
