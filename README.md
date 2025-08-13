@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://thematrixbunny.vercel.app/">
     <img alt="Visit my site" title="Visit my site — The Matrix Bunny"
-      src="https://img.shields.io/badge/Visit%20my%20site-%2300ff9c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
+      src="https://img.shields.io/badge/Visit%20my%20site-%2300ff9c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=011010"/>
   </a>
   <a href="https://github.com/belluccaz?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub"
