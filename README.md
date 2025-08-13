@@ -1,13 +1,18 @@
 <!-- MATRIX BUNNY HEADER -->
 <h1 align="center" style="font-family: 'Share Tech Mono', monospace;">
-  🐇 The Matrix Bunny — Lucas B. Almendra
+  🐇 The Matrix Bunny — Lucas Bellucci
 </h1>
 <p align="center">
-  <em>desenvolvimento full‑stack • análise de sistemas • segurança da informação • suporte</em>
+  <em>desenvolvimento full‑stack • segurança da informação • automação</em>
 </p>
 
+<!-- PRIMARY CTAs -->
 <p align="center">
-<a href="https://github.com/belluccaz?tab=repositories&sort=stargazers">
+  <a href="https://thematrixbunny.vercel.app/">
+    <img alt="Visit my site" title="Visit my site — The Matrix Bunny"
+      src="https://img.shields.io/badge/Visit%20my%20site-%2300ff9c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://github.com/belluccaz?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub"
       src="https://custom-icon-badges.demolab.com/github/stars/belluccaz?style=for-the-badge&logo=star&date=120825"/>
   </a>
@@ -24,17 +29,17 @@
 <!-- MINI TAGLINE -->
 <p align="center">
   <sub>
-    <strong>“sistemas que funcionam além da lógica”</strong> - intenção, verdade e impacto real
+    <strong>“sistemas que funcionam além da lógica”</strong> — intenção, verdade e impacto real
   </sub>
-<p>
+</p>
 
 <!-- STREAK / STATS -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=thematrixbunny&theme=transparent&hide_border=true&date=120825" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=belluccaz&theme=transparent&hide_border=true&date=120825" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thematrixbunny&hide_border=true&theme=transparent&date=120825" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thematrixbunny&layout=compact&hide_border=true&theme=transparent&date=120825" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=belluccaz&hide_border=true&theme=transparent&date=120825" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=belluccaz&layout=compact&hide_border=true&theme=transparent&date=120825" alt="Top Langs"/>
 </p>
 
 <!-- ABOUT -->
@@ -63,8 +68,15 @@ Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e imp
 <!-- LINKS SECUNDÁRIOS -->
 <h3>Portais</h3>
 <ul>
-  <li>📦 Repositórios: <a href="https://github.com/thematrixbunny?tab=repositories&sort=stargazers">GitHub</a></li>
-  <li>👤 Perfil: <a href="https://github.com/thematrixbunny">github.com/thematrixbunny</a></li>
+  <li>🌐 Site: <a href="https://thematrixbunny.vercel.app/">thematrixbunny.vercel.app</a></li>
+  <li>📦 Repositórios: <a href="https://github.com/belluccaz?tab=repositories&sort=stargazers">GitHub</a></li>
+  <li>👤 Perfil: <a href="https://github.com/belluccaz">github.com/belluccaz</a></li>
 </ul>
 
 <!-- FOOTER BADGE LINE -->
+<p align="center">
+  <a href="https://thematrixbunny.vercel.app/">
+    <img alt="Enter the Portal →" title="Enter the Portal →"
+      src="https://img.shields.io/badge/ENTER%20THE%20PORTAL-%2300ff9c?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000"/>
+  </a>
+</p>
