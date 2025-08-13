@@ -68,7 +68,7 @@ Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e imp
 <!-- LINKS SECUNDÁRIOS -->
 <h3>Portais</h3>
 <ul>
-  <li>🌐 Site: <a href="https://thematrixbunny.vercel.app/">thematrixbunny.vercel.app</a></li>
+  <li>🌐 Site (provisório): <a href="https://thematrixbunny.vercel.app/">thematrixbunny.vercel.app</a></li>
   <li>📦 Repositórios: <a href="https://github.com/belluccaz?tab=repositories&sort=stargazers">GitHub</a></li>
   <li>👤 Perfil: <a href="https://github.com/belluccaz">github.com/belluccaz</a></li>
 </ul>
