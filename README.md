@@ -12,17 +12,17 @@
     <img alt="Visit my site" title="Visit my site — The Matrix Bunny"
       src="https://img.shields.io/badge/Visit%20my%20site-%2300ff9c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=011010"/>
   </a>
-  <a href="https://github.com/belluccaz?tab=repositories&sort=stargazers">
+  <a href="https://github.com/thematrixbunny?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/belluccaz?style=for-the-badge&logo=star&date=120825"/>
+      src="https://custom-icon-badges.demolab.com/github/stars/thematrixbunny?style=for-the-badge&logo=star&date=120825"/>
   </a>
-  <a href="https://github.com/belluccaz?tab=followers">
+  <a href="https://github.com/thematrixbunny?tab=followers">
     <img alt="followers" title="Follow me on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/belluccaz?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=120825"/>
+      src="https://custom-icon-badges.demolab.com/github/followers/thematrixbunny?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=120825"/>
   </a>
-  <a href="https://github.com/belluccaz/">
+  <a href="https://github.com/thematrixbunny/">
     <img alt="views" title="GitHub profile views"
-      src="https://komarev.com/ghpvc/?username=belluccaz&style=for-the-badge"/>
+      src="https://komarev.com/ghpvc/?username=thematrixbunny&style=for-the-badge"/>
   </a>
 </p>
 
@@ -35,11 +35,11 @@
 
 <!-- STREAK / STATS -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=belluccaz&theme=transparent&hide_border=true&date=120825" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=thematrixbunny&theme=transparent&hide_border=true&date=120825" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belluccaz&hide_border=true&theme=transparent&date=120825" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=belluccaz&layout=compact&hide_border=true&theme=transparent&date=120825" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thematrixbunny&hide_border=true&theme=transparent&date=120825" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thematrixbunny&layout=compact&hide_border=true&theme=transparent&date=120825" alt="Top Langs"/>
 </p>
 
 <!-- ABOUT -->
@@ -69,8 +69,8 @@ Sistemas devem ir além da lógica: precisam comunicar intenção, verdade e imp
 <h3>Portais</h3>
 <ul>
   <li>🌐 Site (provisório): <a href="https://thematrixbunny.vercel.app/">thematrixbunny.vercel.app</a></li>
-  <li>📦 Repositórios: <a href="https://github.com/belluccaz?tab=repositories&sort=stargazers">GitHub</a></li>
-  <li>👤 Perfil: <a href="https://github.com/belluccaz">github.com/belluccaz</a></li>
+  <li>📦 Repositórios: <a href="https://github.com/thematrixbunny?tab=repositories&sort=stargazers">GitHub</a></li>
+  <li>👤 Perfil: <a href="https://github.com/thematrixbunny">github.com/thematrixbunny</a></li>
 </ul>
 
 <!-- FOOTER BADGE LINE -->
