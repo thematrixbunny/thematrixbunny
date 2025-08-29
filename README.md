@@ -3,7 +3,7 @@
   🐇 The Matrix Bunny — Lucas B. Almendra
 </h1>
 <p align="center">
-  <em>desenvolvimento full‑stack • segurança da informação</em>
+  <em>desenvolvimento full‑stack • segurança da informação </em>
 </p>
 
 <!-- PRIMARY CTAs -->
